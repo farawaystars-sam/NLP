@@ -1,0 +1,6 @@
+Required libraries:
+nltk
+
+run from terminal:
+pip install nltk
+
